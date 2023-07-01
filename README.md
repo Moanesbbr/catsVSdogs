@@ -18,11 +18,11 @@ Neural Networks.
 
 ## Part 3 – Processing
 
-1/Importing Libraries
-2/Loading the Data
-3/Building the Model
-4/Compiling and Fitting the Model
-5/Plotting Accuracy and Loss
+1/Importing Libraries<br />
+2/Loading the Data <br />
+3/Building the Model<br />
+4/Compiling and Fitting the Model<br />
+5/Plotting Accuracy and Loss<br />
 6/Model Predictions
 
 ## How to run locally 💻
